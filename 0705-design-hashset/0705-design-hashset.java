@@ -1,4 +1,5 @@
 class MyHashSet {
+    // NOTE: 初始化dummy节点不能用增强for，因为增强for拿到的是节点的引用，不会直接改变buckets数组
     private static final int BASE = 769;
     private Node[] buckets;
 
