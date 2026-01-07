@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0229-majority-element-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0706-design-hashmap) |
@@ -65,6 +66,7 @@
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -98,4 +100,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
