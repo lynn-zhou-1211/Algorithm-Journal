@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0169-majority-element) |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0229-majority-element-ii) |
@@ -104,6 +106,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lynn-zhou-1211/Algorithm-Journal/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
